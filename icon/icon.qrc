@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/pwd">
+        <file>password/num.png</file>
+        <file>password/pwd_0.bmp</file>
+        <file>password/pwd_1.bmp</file>
+        <file>password/pwd_2.bmp</file>
+        <file>password/pwd_3.bmp</file>
+        <file>password/pwd_4.bmp</file>
+        <file>password/error.bmp</file>
+        <file>password/inconsistency.bmp</file>
+        <file>password/selectUser.bmp</file>
+        <file>password/Administrator_white.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>close.bmp</file>
+        <file>add.bmp</file>
+        <file>cancel.bmp</file>
+        <file>delete.bmp</file>
+        <file>icon.qrc</file>
+        <file>saves.bmp</file>
+        <file>warn.png</file>
+        <file>blue_1.bmp</file>
+        <file>end.bmp</file>
+        <file>home.bmp</file>
+        <file>left.jpg</file>
+        <file>right.jpg</file>
+        <file>search.png</file>
+        <file>check.png</file>
+        <file>arrow.png</file>
+        <file>setting.png</file>
+        <file>wifi.png</file>
+    </qresource>
+</RCC>
